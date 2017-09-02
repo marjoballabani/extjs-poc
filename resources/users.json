@@ -1,0 +1,113 @@
+[{
+    "Name": "Michael Kordt",
+    "Firstname": "Michael",
+    "Lastname": "Kordt",
+    "Department": "Consultant",
+    "eMail": "mk@berater.de",
+    "Login": "mk@berater.de",
+    "Status": "active"
+}, {
+    "Name": "Anselm Vollmer",
+    "Firstname": "Anselm",
+    "Lastname": "Vollmer",
+    "Department": "Consultant",
+    "eMail": "av@berater.de",
+    "Login": "av@berater.de",
+    "Status": "active"
+}, {
+    "Name": "Mira Falk",
+    "Firstname": "Mira",
+    "Lastname": "Falk",
+    "Department": "Consultant",
+    "eMail": "mf@berater.de",
+    "Login": "mf@berater.de",
+    "Status": "active"
+}, {
+    "Name": "Ricardo Campbell",
+    "Firstname": "Ricardo",
+    "Lastname": "Campbell",
+    "Department": "Controlling",
+    "eMail": "rc@comp.com",
+    "Login": "rc@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Patricia Clau�en",
+    "Firstname": "Patricia",
+    "Lastname": "Clau�en",
+    "Department": "Controlling",
+    "eMail": "pc@comp.com",
+    "Login": "pc@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Susanne Marxen",
+    "Firstname": "Susanne",
+    "Lastname": "Marxen",
+    "Department": "Management",
+    "eMail": "sm@comp.com",
+    "Login": "sm@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Olaf Muntermacher",
+    "Firstname": "Olaf",
+    "Lastname": "Muntermacher",
+    "Department": "Management",
+    "eMail": "om@comp.com",
+    "Login": "om@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Anna Polanski",
+    "Firstname": "Anna",
+    "Lastname": "Polanski",
+    "Department": "Staff",
+    "eMail": "ap@comp.com",
+    "Login": "ap@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Mike Paals",
+    "Firstname": "Mike",
+    "Lastname": "Paals",
+    "Department": "Staff",
+    "eMail": "mp@comp.com",
+    "Login": "mp@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Lisa Padeken",
+    "Firstname": "Lisa",
+    "Lastname": "Padeken",
+    "Department": "Staff",
+    "eMail": "lp@comp.com",
+    "Login": "lp@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Christian Penning",
+    "Firstname": "Christian",
+    "Lastname": "Penning",
+    "Department": "Staff",
+    "eMail": "cp@comp.com",
+    "Login": "cp@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Rudolph Pons",
+    "Firstname": "Rudolph",
+    "Lastname": "Pons",
+    "Department": "Staff",
+    "eMail": "rp@comp.com",
+    "Login": "rp@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Piet Pintermann",
+    "Firstname": "Piet",
+    "Lastname": "Pintermann",
+    "Department": "Staff",
+    "eMail": "pp@comp.com",
+    "Login": "pp@comp.com",
+    "Status": "active"
+}, {
+    "Name": "Xenia Pr�gmeyer",
+    "Firstname": "Xenia",
+    "Lastname": "Pr�gmeyer",
+    "Department": "Staff",
+    "eMail": "xp@comp.com",
+    "Login": "xp@comp.com",
+    "Status": "active"
+}]

@@ -1,0 +1,21 @@
+/*
+ *  This file can be used to set variables and supply global styling.  View specific
+ *  styling should be located the view's corresponding scss file.
+ */
+$enable-font-awesome: dynamic(true);
+
+.home-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .details-main-ul {
+        list-style: none;
+        padding: 30px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 8px 0 -3px #f6f6f6, 0 9px 1px -3px rgba(0, 0, 0, 0.2), 0 16px 0 -6px #f6f6f6, 0 17px 2px -6px rgba(0, 0, 0, 0.2);
+        li {
+            border-bottom: 1px solid #cccccc;
+            padding: 12px 0 12px 0;
+            font-size: 15px;
+        }
+    }
+}
